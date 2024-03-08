@@ -1,0 +1,27 @@
+{
+  "solver": {
+    "errors": {}
+  },
+
+  "general": {
+    "errors": {
+      "invalidX": "Invalid X position:",
+      "invalidY": "Invalid Y position:",
+      "invalidNumberValue": "Invalid number value:",
+      "groupIdInvalid": "Group ID cannot be undefined.",
+      "invalidArrayItem": "Could not find an item on given array index:"
+    }
+  },
+
+  "table": {
+    "errors": {
+      "invalidColumns": "Invalid column length:",
+      "invalidLines": "Invalid line length:",
+      "cellOutOfBounds": "Given cell position is out of bounds:",
+      "objectOutOfBounds": "Given object position is out of bounds:",
+      "notFound": "Selected item is not found:",
+      "notWall": "Selected item is not a Wall:",
+      "notCell": "Selected item is not a Cell:"
+    }
+  }
+}
