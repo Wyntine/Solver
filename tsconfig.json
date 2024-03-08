@@ -1,0 +1,9 @@
+{
+  "extends": "./node_modules/@tsconfig/strictest/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "build",
+    "rootDir": "src",
+    "declaration": true,
+    "resolveJsonModule": true
+  },
+}
